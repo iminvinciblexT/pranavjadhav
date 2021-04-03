@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Software developer and technology evangelist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a Software developer based in Maharashtra, India and have been working on Native Android development projects as of now.
+Pretty much inclined with human psychology and passionate towards learning and teaching, myself Pranav Jadhav - a technology enthusiast and evangelist.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I love deep talks on all range of topics right from Technology to Design and Psychology as well. :)
 
-What else do you need?
+Thanks for dropping by, will love to have a chat for sure.
 
-### My story
+### Contact me
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+LinkedIn is probably the best platform where you can find me and understand my current adventures of career. Feel free to find me at (this)[https://www.linkedin.com/in/pranav-jadhav-94534b114/] link and drop a message.
