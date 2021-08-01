@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding the other side of OCD (Obsessive Compulsive Disorder)
+title: Understanding the other side of OCD
 subtitle: Vividly different perception
 tags: [psychology]
 comments: true
